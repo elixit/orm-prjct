@@ -41,20 +41,22 @@ Category has many Product models.Product belongs to many Tag models. Using the P
 ](https://drive.google.com/file/d/1RIAo2CLrrrBBB3io3152lLDjrNf0wIno/view?usp=drive_link)
 
 ## Usage
- - imported required packages: Express, mysql2, sequelize, dotenv
+ - imported required packages: npm, Express, mysql2, sequelize, dotenv
  - source schema and npm run seed to seed data
  - npm start
 
 ## Installation 
-- index.js
-- shapes.js
-- svg
-- jest
+- node.js
+- Sequelize
+- dotenv
+- mysql2
+  
 
 ## Screenshot 
 
+![0A9CF978-F064-470A-93C8-9F10A94E64FE](https://github.com/elixit/orm-hw/assets/63372291/69ff90b8-1ca0-4a61-a224-895cef31eaf1)
 
-![313CE8EB-3C55-494B-998A-E03688B7D9EA](https://github.com/elixit/logo-hw/assets/63372291/d58dbab0-89e7-4dc3-8833-2561c749c05c)
+
 
 ## License
 
