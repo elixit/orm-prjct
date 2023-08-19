@@ -19,7 +19,7 @@
 - We are supposed to use insomnia to GET routes to return all categories, all products, and all tags being tested in Insomnia Core:
 
 
-we needed to execute association methods on your Sequelize models to create the following relationships between them:
+we needed to execute association methods on the Sequelize models to create the following relationships between them:
 
 Product belongs to Category, as a category can have multiple products but a product can only belong to one category.
 Category has many Product models.Product belongs to many Tag models. Using the ProductTag through model, allow products to have multiple tags and tags to have many products. Tag belongs to many Product models.
