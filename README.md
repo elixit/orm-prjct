@@ -37,7 +37,9 @@ Category has many Product models.Product belongs to many Tag models. Using the P
 ## Functionalitylink
 
 [
-(https://drive.google.com/file/d/1j7_vIOTyf_CCB5xzMToGWEAEhPrDbQXJ/view?usp=drive_link)]
+(https://drive.google.com/file/d/1ikphisMf8flhgFOIVbI63KaPcRYCgRpk/view?usp=drive_link)]
+
+
 ## Usage
  - imported required packages: npm, Express, mysql2, sequelize, dotenv
  - source schema and npm run seed to seed data
